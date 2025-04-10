@@ -1,1 +1,1 @@
-Sitemap: https://crsl4.github.io/julia-workshop/sitemap.xml
+Sitemap: https://jdmarinj1.github.io/Confiabilidad_UN/sitemap.xml

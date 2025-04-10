@@ -11,8 +11,8 @@ render:
       - Cap2.qmd
 website:
     title: "Universidad Nacional de Colombia <br>Sede Manizales"
-    site-url: https://crsl4.github.io/julia-workshop
-    repo-url: https://github.com/crsl4/julia-workshop
+    site-url: https://jdmarinj1.github.io/Confiabilidad_UN/
+    repo-url: https://github.com/jdmarinj1/Confiabilidad_UN
     repo-actions: [issue]
     navbar:
       background: primary
@@ -22,7 +22,7 @@ website:
         - about.qmd
       right:
         - icon: github
-          href: https://github.com/crsl4/julia-workshop
+          href: https://github.com/jdmarinj1/Confiabilidad_UN
         - icon: linkedin
           href: https://www.linkedin.com/in/juan-david-marin-jimenez/
     sidebar:
