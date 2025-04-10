@@ -1,25 +1,20 @@
+---
+title: "Confiabilidad de sistemas industriales"
+format:
+  html:
+    toc: true
+    sidebar:
+      style: "floating"
+      alignment: "left"
+---
+
+
 <a href="https://colab.research.google.com/drive/1Q1_7MxzTXFi3uNsgazZ0XJnkHOmL8Jea?usp=sharing"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
 
 
 
 <img src='http://grupogamacocom.ipage.com/Imagenes/logoUN1.png' width='200px' margin='100px'></img>
-
-## Universidad Nacional de Colombia - Sede Manizales
-### Confiabilidad de sistemas eléctricos
-### **Profesor: Juan David Marín Jiménez**
-
-
-
----
-
-
-
-# Objetivos de este Notebook
-
-* Explicar conceptos básicos de probabilidad y estadística aplicada a la Ingeniería Eléctrica
-* Aplicar ejercicios básicos de probabilidad y estadística
-
-
+ 
 # Tabla de Contenido
 
 1. [Introducción](#section1)
