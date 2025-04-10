@@ -1,18 +1,57 @@
 project:
   type: website
+  title: "Universidad Nacional de Colombia"
+  execute-dir: project
   output-dir: docs
 
+render: 
+      - index.qmd
+      - about.qmd
+      - Cap1.qmd
 website:
-  title: "Confiabilidad de Sistemas Eléctricos - De potencia"
-  navbar:
-    left:
-      - text: "Inicio"
-        href: index.qmd
-  page-footer:
-    center: "© 2025 Juan David Marín Jiménez - Proyecto académico"
-#journal, litera, minty, simplex, spacelab, yeti, cosmo, flatly
+    title: "Universidad Nacional de Colombia <br>Sede Manizales"
+    site-url: https://crsl4.github.io/julia-workshop
+    repo-url: https://github.com/crsl4/julia-workshop
+    repo-actions: [issue]
+    navbar:
+      background: primary
+      left:
+        - href: index.qmd
+          text: Inicio
+        - about.qmd
+      right:
+        - icon: github
+          href: https://github.com/crsl4/julia-workshop
+        - icon: linkedin
+          href: https://www.linkedin.com/in/juan-david-marin-jimenez/
+    sidebar:
+      style: "docked"
+      search: true
+      contents:
+        - index.qmd
+        - about.qmd
+        - Cap1.qmd
+    #  - session2a-tables-and-arrow.qmd
+    #  - session2b-interval-overlap.qmd
+    #  - session2b-alt.qmd
+    #  - session3a-linear-mixed-effects.qmd
+    #  - session3b-glmm.qmd
+    #  - session4-exercise.qmd
+    #- session5-other-tools.qmd
+    # - session6-conclusions.qmd
+    page-navigation: true
+
+    page-footer:
+      center: "© 2025 Juan David Marín Jiménez - Proyecto académico"
+#journal, litera, minty, simplex, spacelab, yeti, cosmo, flatly, cosmo
 
 format:
   html:
-    theme: minty
+    theme: cosmo #minty
+    css: styles.css
     toc: true
+
+callout-appearance: simple
+
+date: today
+date-format: iso
