@@ -8,6 +8,7 @@ render:
       - index.qmd
       - about.qmd
       - Cap1.qmd
+      - Cap2.qmd
 website:
     title: "Universidad Nacional de Colombia <br>Sede Manizales"
     site-url: https://crsl4.github.io/julia-workshop
@@ -31,6 +32,7 @@ website:
         - index.qmd
         - about.qmd
         - Cap1.qmd
+        - Cap2.qmd
     #  - session2a-tables-and-arrow.qmd
     #  - session2b-interval-overlap.qmd
     #  - session2b-alt.qmd

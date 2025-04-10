@@ -4,12 +4,16 @@ author: "Juan David Marín Jiménez"
 subtitle: "Manizales, 2025"
 ---
 
-# Welcome
 
-  - Welcome to the Julia workshop for Data Science!
-  - The goal for the workshop is to highlight the main features that make Julia an attractive option for data science programmers
-  - The workshop is intended for any data scientist with experience in R and/or python who is interested in learning the attractive features of Julia for Data Science. No knowledge of Julia is required.
-  - Workshop materials in the github repository [julia-workshop](https://github.com/crsl4/julia-workshop)
+# Confiabilidad de sistemas eléctricos
+
+# Introducción
+
+La confiabilidad, en su sentido más amplio, se relaciona con la capacidad de un sistema para resistir fallos, ofrecer un desempeño constante y generar confianza en su operación. No obstante, en el contexto de los sistemas eléctricos, la confiabilidad trasciende lo abstracto para convertirse en una disciplina técnica rigurosa, en la que es posible medir, planear y diseñar el comportamiento esperado de los equipos y redes ante diversas condiciones de operación.
+
+Este libro (curso) aborda la confiabilidad como una herramienta fundamental en el diseño, operación y mantenimiento de los sistemas eléctricos, con especial énfasis en los sistemas de distribución y las instalaciones solares fotovoltaicas. Estos sistemas, por su cercanía al usuario final y su creciente integración con fuentes de energía distribuida, representan un nuevo desafío para los esquemas tradicionales de confiabilidad.
+
+Históricamente, el sistema eléctrico se ha segmentado en tres dominios funcionales: generación, transmisión y distribución. En este texto nos enfocamos en la última etapa —la distribución— por ser la más vulnerable a interrupciones y la más exigente en cuanto a calidad y continuidad del servicio. Asimismo, exploraremos la confiabilidad en sistemas fotovoltaicos, dada su expansión en entornos urbanos, rurales y de difícil acceso, donde su desempeño confiable es esencial para garantizar el suministro eléctrico.
 
 ## Learning Objectives for Tutorial
 

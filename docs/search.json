@@ -135,8 +135,8 @@
     "objectID": "index.html#learning-objectives-for-tutorial",
     "href": "index.html#learning-objectives-for-tutorial",
     "title": "Introducción",
-    "section": "",
-    "text": "At the end of the tutorial, participants will be able to:\n\nIdentify the main features that make Julia an attractive language for Data Science\nSet up a Julia environment to run their data analysis\nEfficiently handle datasets (even across different languages) through Tables.jl and Arrow.jl\nFit (generalized) linear mixed models with MixedModels.jl\nCommunicate across languages (Julia, R, python)\n\nIntended audience and level: The tutorial is intended for any data scientist with experience in R and/or python who is interested in learning the attractive features of Julia for Data Science. No knowledge of Julia is required.",
+    "section": "Learning Objectives for Tutorial",
+    "text": "Learning Objectives for Tutorial\nAt the end of the tutorial, participants will be able to:\n\nIdentify the main features that make Julia an attractive language for Data Science\nSet up a Julia environment to run their data analysis\nEfficiently handle datasets (even across different languages) through Tables.jl and Arrow.jl\nFit (generalized) linear mixed models with MixedModels.jl\nCommunicate across languages (Julia, R, python)\n\nIntended audience and level: The tutorial is intended for any data scientist with experience in R and/or python who is interested in learning the attractive features of Julia for Data Science. No knowledge of Julia is required.",
     "crumbs": [
       "Inicio",
       "Introducción"
@@ -151,6 +151,17 @@
     "crumbs": [
       "Inicio",
       "About"
+    ]
+  },
+  {
+    "objectID": "Cap2.html#universidad-nacional-de-colombia---sede-manizales",
+    "href": "Cap2.html#universidad-nacional-de-colombia---sede-manizales",
+    "title": "Objetivos de este Notebook",
+    "section": "Universidad Nacional de Colombia - Sede Manizales",
+    "text": "Universidad Nacional de Colombia - Sede Manizales\n\nConfiabilidad de sistemas eléctricos\n\n\nProfesor: Juan David Marín Jiménez",
+    "crumbs": [
+      "Inicio",
+      "Universidad Nacional de Colombia - Sede Manizales"
     ]
   }
 ]
