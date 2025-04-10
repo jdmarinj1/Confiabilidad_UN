@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Confiabilidad de Sistemas Eléctricos - De poteia"
+  title: "Confiabilidad de Sistemas Eléctricos - De potencia"
   navbar:
     left:
       - text: "Inicio"
