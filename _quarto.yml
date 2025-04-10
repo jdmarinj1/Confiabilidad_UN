@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Confiabilidad de Sistemas Eléctricos - De poteia"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+  page-footer:
+    center: "© 2025 Juan David Marín Jiménez - Proyecto académico"
+#journal, litera, minty, simplex, spacelab, yeti, cosmo, flatly
+
+format:
+  html:
+    theme: minty
+    toc: true
